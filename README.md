@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ALPHA-JAISON and im 13yrs old
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python,html and css
+- 👋 Hi, I’m @ALPHA-JAISON 
+- 👀 I’m interested in coding and cycling
+- 🌱 I’m currently learning python,html, css and c
 - 💞️ I’m looking to collaborate on app development
 - 📫 How to reach me +256704664312
 
