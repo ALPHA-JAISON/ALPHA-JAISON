@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ALPHA-JAISON 
-- 👀 I’m interested in coding and cycling
-- 🌱 I’m currently learning python,html, css and c
-- 💞️ I’m looking to collaborate on app development
-- 📫 How to reach me send a bottle with a note
+
+
 
 <!---
 ALPHA-JAISON/ALPHA-JAISON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
